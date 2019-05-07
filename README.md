@@ -7,3 +7,4 @@ Gists I use and have used.
 
 ## Python
 1. [Compare List of dicts without order](https://gist.github.com/anroopak/10b4a494c682eaf79d491b1ffd913269)
+2. [Converting a Decimal to Base and back](https://gist.github.com/anroopak/3d2f73ced8a8048a9288b4ccbdae1b83)
